@@ -1,0 +1,5 @@
+免费，开源，轻量，跨平台的特点
+
+Settings Sync
+
+完整的开发工具集，集成开发环境(IDE)，只能在 Windows 和 macOS（Mac OS X ）之上运行，不能跳跃各平台编辑。收费。
